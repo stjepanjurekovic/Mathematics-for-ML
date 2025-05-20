@@ -25,6 +25,13 @@ This is probably the place you want to start. Start slowly and work on some exam
 
 Book: https://mml-book.github.io
 
+### Math and Architectures of Deep Learning
+*by Krishnendu Chaudhury*
+
+This comprehensive and detailed guide reveals the mathematical and architectural concepts behind deep learning models
+
+Book: https://www.manning.com/books/math-and-architectures-of-deep-learning
+
 ### Probabilistic Machine Learning: An Introduction
 *by Kevin Patrick Murphy*
 
